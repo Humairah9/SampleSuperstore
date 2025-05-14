@@ -2,6 +2,7 @@
 
 # Introduction
 - [Introduction](https://github.com/Humairah9/SampleSuperstore/blob/main/README.md#introduction)
+- [Tool Used](https://github.com/Humairah9/SampleSuperstore/blob/main/README.md#tools-used)
 - 
 
 
