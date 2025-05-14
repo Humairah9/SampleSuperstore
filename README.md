@@ -34,13 +34,12 @@ Sub-Categorical Sales & Profitability: Chairs, Tables, and Bookcases generate hi
 
 Pattern Trends: Sales and profit have a moderate positive correlation (0.48), meaning higher sales generally lead to increased profit. Sales and discount (-0.03) show little correlation, suggesting discounts do not significantly boost sales. Profit and discount (-0.22) reveal that higher discounts slightly reduce profits. Sales and quantity (0.20) suggest high-value, low-quantity sales are key revenue drivers.
 
-![image](https://github.com/user-attachments/assets/d767a727-b76d-43d6-abfa-cc27be59d2d2)
+![image](https://github.com/user-attachments/assets/5cd9c61d-b9e6-42e1-bb00-2a4c3eb6eeed)
 
 # Key Performance Indicators (KPI)
 Total Sales: $2,296,195.59 and Total Profit: $286,241.42. The figures indicate strong sales performance, but optimizing costs and pricing strategies is crucial for higher profitability.  
 
-![image](https://github.com/user-attachments/assets/5cd9c61d-b9e6-42e1-bb00-2a4c3eb6eeed)
-
+![image](https://github.com/user-attachments/assets/d767a727-b76d-43d6-abfa-cc27be59d2d2)
 
 # Conclusion
 The Technology category and West region drive profitability, while Furniture and the Central region struggle with inefficiencies. Tables generate high sales but remain unprofitable, emphasizing the need for cost control. Discounts do not significantly impact sales but reduce profits, highlighting the importance of targeted pricing strategies.  
