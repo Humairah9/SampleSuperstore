@@ -1,5 +1,10 @@
 # MARKETING INSIGHT REPORT
 
+# Introduction
+- [Introduction](https://github.com/Humairah9/SampleSuperstore/blob/main/README.md#introduction)
+- 
+
+
 ![images (12)](https://github.com/user-attachments/assets/7b22b2e2-2619-4eac-b774-790dcaad61b3)
 
 
