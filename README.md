@@ -1,4 +1,4 @@
-# MARKETING INSIGHT REPORT
+# Superstore Sales and Profit Analysis
 
 # Introduction
 - [Introduction](https://github.com/Humairah9/SampleSuperstore/blob/main/README.md#introduction)
