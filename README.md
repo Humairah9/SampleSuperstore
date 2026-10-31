@@ -8,9 +8,6 @@
 - [Conclusion](https://github.com/Humairah9/SampleSuperstore/blob/main/README.md#conclusion)
 
 
-![images (12)](https://github.com/user-attachments/assets/7b22b2e2-2619-4eac-b774-790dcaad61b3)
-
-
 # Introduction
 
 The dataset contains 9,994 sales transactions from a retail superstore, covering sales, profit, product categories, discounts, and regional trends. This report highlights key insights on top-performing products, regional trends, and profitability to guide marketing strategies.  
