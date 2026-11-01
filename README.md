@@ -158,7 +158,7 @@ Overall, **high sales do not always mean high profit**.
 ├── SampleSuperstore.csv          # source dataset
 ├── SampleStore_Analysis.ipynb     # analysis notebook
 ├── image/                       # chart images used in this README
-└── HNG Task 0.pdf                # task brief
+└── Superstore_Analysis.pdf                # Report Analysis
 ```
 
 This report was developed as part of the HNG Internship, which equips participants with industry-ready data analysis and other tech skills. Learn more at [HNG Internship](https://hng.tech/internship) or explore opportunities to hire skilled professionals through [HNG Hire](https://hng.tech/hire).
