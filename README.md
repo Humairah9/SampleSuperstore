@@ -16,7 +16,7 @@ Using Python, I analysed a retail superstore dataset of 9,977 sales transactions
 
 ## Dashboard Preview
 
-![Profitability by Sub-Category](images/profit_by_subcategory.png)
+![Profitability by Sub-Category](image/11_profit_by_subcategory.png)
 
 *Tables rank 4th on sales but lose more money than any other sub-category.*
 
@@ -67,7 +67,7 @@ All totals and charts below use the 9,977 de-duplicated transactions.
 
 The store recorded **$2,296,195.59** in sales and **$286,241.42** in profit, an overall profit margin of **12.5%**.
 
-![KPI card](images/kpi_card.png)
+![KPI card](image/01_kpi_card.png)
 
 ### 2. Sales and Profit by Category
 
@@ -79,9 +79,9 @@ The store recorded **$2,296,195.59** in sales and **$286,241.42** in profit, an 
 
 Technology leads on both sales and profit. Furniture is the clearest case of high sales with low profit: it ranks second on sales but earns only 6.4% of total profit, with a margin of just 2.5%. Office Supplies sells the least but earns 42.8% of profit.
 
-![Sales by Category](images/sales_by_category.png)
+![Sales by Category](image/04_sales_by_category.png)
 
-![Profit by Category](images/profit_by_category.png)
+![Profit by Category](image/05_profit_by_category.png)
 
 ### 3. Sales and Profit by Region
 
@@ -94,9 +94,9 @@ Technology leads on both sales and profit. Furniture is the clearest case of hig
 
 West is the strongest region on both measures. Central is the weakest: it makes 21.8% of sales but only 13.9% of profit, a margin of 7.9% that is about half of West's, which points to cost or pricing problems.
 
-![Sales by Region](images/sales_by_region.png)
+![Sales by Region](image/07_sales_by_region.png)
 
-![Profit by Region](images/profit_by_region.png)
+![Profit by Region](image/08_profit_by_region.png)
 
 ### 4. Sales and Profit by Sub-Category
 
@@ -104,9 +104,9 @@ Phones ($330,007) and Chairs ($327,778) lead on sales. Copiers earn the most pro
 
 Three sub-categories lose money: **Tables (-$17,725)**, **Bookcases (-$3,473)** and **Supplies (-$1,189)**. Tables are the biggest warning sign, because they rank 4th on sales at $206,966 yet are the least profitable product. Chairs also sell almost as much as Phones but earn a margin of only 8.1%. Fasteners contribute the least sales ($3,024).
 
-![Sales by Sub-Category](images/sales_by_subcategory.png)
+![Sales by Sub-Category](image/10_sales_by_subcategory.png)
 
-![Profitability by Sub-Category](images/profit_by_subcategory.png)
+![Profitability by Sub-Category](image/11_profit_by_subcategory.png)
 
 ### 5. Segment and Ship Mode
 
@@ -114,7 +114,7 @@ Consumers make up 50.5% of sales but have the lowest margin of the three segment
 
 ### 6. Correlations
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](image/12_correlation_heatmap.png)
 
 - **Sales and profit (0.48):** a moderate positive link, so higher sales generally lead to higher profit, but far from always.
 - **Sales and discount (-0.03):** almost no link, so discounts do not boost sales.
@@ -156,8 +156,8 @@ Overall, **high sales do not always mean high profit**.
 .
 ├── README.md
 ├── SampleSuperstore.csv          # source dataset
-├── superstore_analysis.ipynb     # analysis notebook
-├── images/                       # chart images used in this README
+├── SampleStore_Analysis.ipynb     # analysis notebook
+├── image/                       # chart images used in this README
 └── HNG Task 0.pdf                # task brief
 ```
 
